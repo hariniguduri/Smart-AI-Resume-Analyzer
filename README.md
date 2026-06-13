@@ -18,9 +18,7 @@
 
 
 
-## <img src="https://github.com/user-attachments/assets/0cefad05-58a9-4aa0-a070-f75a0c9b0353" height="32px">  Tech Stack 
-<details>
-  <summary>🌐 Frontend</summary>
+🌐 Frontend
 
 | **🌟 Technology**    | **💼 Role**                                                             |  
 |-----------------------|-------------------------------------------------------------------------|  
@@ -29,29 +27,21 @@
 | [**CSS**](https://developer.mozilla.org/en-US/docs/Web/CSS)      | Adds styling and layouts to the frontend.                               |  
 | [**JavaScript**](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) | Enables interactivity and dynamic behavior for the web pages.          |  
 
-</details>
-
-<details>
-  <summary>⚙️ Backend</summary>
+⚙️ Backend
 
 | **🌟 Technology**    | **💼 Role**                                                             |  
 |-----------------------|-------------------------------------------------------------------------|  
 | [**Streamlit**](https://streamlit.io/)   | Handles backend logic and integrates machine learning models.           |  
 | [**Python**](https://www.python.org/)    | Provides core programming language for implementing functionalities.    |  
 
-</details>
 
-<details>
-  <summary>🗄️ Database</summary>
+ 🗄️ Database
 
 | **🌟 Technology**    | **💼 Role**                                                             |  
 |-----------------------|-------------------------------------------------------------------------|  
 | [**SQLite3**](https://www.sqlite.org/index.html) | Stores and retrieves resume data for efficient processing.             |  
 
-</details>
-
-<details>
-  <summary>📦 Modules</summary>
+📦 Modules
 
 | **🌟 Technology**    | **💼 Role**                                                             |  
 |-----------------------|-------------------------------------------------------------------------|  
@@ -63,7 +53,7 @@
 | [**NLTK**](https://www.nltk.org/)         | Provides tools for tokenization, stemming, and text preprocessing in NLP. |  
 | [**openpyxl**](https://openpyxl.readthedocs.io/en/stable/)      | Facilitates reading, writing, and modifying Excel files for data visualization and export. |  
 
-</details>
+
 
 ## 💡 **How It Works**  
 
