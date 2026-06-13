@@ -1,0 +1,50 @@
+STEP 1: Activate your conda environment
+conda activate spacyenv
+
+
+You MUST see:
+
+(spacyenv)
+
+
+If you don’t see this, stop.
+
+🔹 STEP 2: Go to your project folder
+cd C:\Users\harin\OneDrive\Desktop\Smart-AI-Resume-Analyzer-main
+
+🔹 STEP 3: Run the application
+
+Your project is a Streamlit app, so run:
+
+streamlit run app.py
+
+
+
+🔹 Step 2: Install Gemini library INSIDE spacyenv
+
+Now run:
+
+pip install google-generativeai
+
+
+✔ This installs the package only for spacyenv
+✔ Streamlit will be able to use it
+
+🔹 Step 3: Run your Streamlit app
+streamlit run app.py
+
+❗ What NOT to Do
+
+❌ Do NOT install it in (base) and run app in spacyenv
+❌ Do NOT mix environments
+
+Example of ❌ wrong flow:
+
+(base) pip install google-generativeai
+(spacyenv) streamlit run app.py   ❌ ModuleNotFoundError
+
+🔍 How to Verify Installation (Optional but useful)
+
+After installing:
+
+pip show google-generativeai
